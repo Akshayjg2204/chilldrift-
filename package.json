@@ -1,0 +1,19 @@
+{
+  "name": "chill-drift",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-basic-ssl": "^2.0.0",
+    "simplex-noise": "^4.0.1",
+    "three": "^0.176.0"
+  },
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
