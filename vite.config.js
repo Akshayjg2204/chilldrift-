@@ -12,8 +12,7 @@ export default defineConfig({
     sourcemap: true,
     rollupOptions: {
       input: {
-        main: 'index.html',
-        test_clouds: 'test_clouds.html'
+        main: 'index.html'
       }
     }
   },
