@@ -1,7 +1,28 @@
 {
   "name": "chill-drift",
-  "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Chill Drift — High-performance 3D browser racing game with custom vehicle physics, AE86 drift mechanics, and procedural environments built with Three.js (WebGL) and Vite.",
+  "author": {
+    "name": "Akshay Gaikwad",
+    "url": "https://stream-line.dev/"
+  },
+  "homepage": "https://chill-drift.netlify.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akshayjg2204/chilldrift-.git"
+  },
+  "keywords": [
+    "threejs",
+    "webgl",
+    "game-development",
+    "racing-game",
+    "physics-engine",
+    "drift-game",
+    "vite",
+    "javascript",
+    "3d-graphics"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",
